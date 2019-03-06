@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Chronos\Exception;
+namespace Ling\Chronos\Exception;
 
 
 class ChronosException extends \Exception{

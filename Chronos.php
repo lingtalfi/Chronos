@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Chronos;
+namespace Ling\Chronos;
 
 
-use Chronos\Exception\ChronosException;
+use Ling\Chronos\Exception\ChronosException;
 
 class Chronos
 {
