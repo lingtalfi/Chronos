@@ -44,7 +44,11 @@ a(Chronos::point($id)); // [3.00239610672, 1784]
 
 History Log
 ------------------
-    
+
+- 1.0.1 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.0.0 -- 2017-11-18
 
     - initial commit
